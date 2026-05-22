@@ -8,7 +8,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author horatio
+ * @author driss
  */
 public class EmployeeTree {
     Node root;

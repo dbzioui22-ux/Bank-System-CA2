@@ -6,7 +6,7 @@ package CA__2;
 
 /**
  *
- * @author horatio
+ * @author driss
  */
 public enum ManagerType {
     SENIOR(1, "Senior Manager"),

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author horatio
+ * @author driss
  */
 public class BinarySearch {
 

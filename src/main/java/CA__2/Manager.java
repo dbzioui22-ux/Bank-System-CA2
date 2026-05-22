@@ -6,7 +6,7 @@ package CA__2;
 
 /**
  *
- * @author horatio
+ * @author driss
  */
 public class Manager extends Employee {
     int numReports;
